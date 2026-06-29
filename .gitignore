@@ -1,3 +1,4 @@
 *.jsonl
 __pycache__/
 *.pyc*.zip
+temp_image.jpg
