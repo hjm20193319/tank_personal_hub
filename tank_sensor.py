@@ -198,9 +198,9 @@ def init():
         "blStartX": 60,  #Blue Start Position
         "blStartY": 10,
         "blStartZ": 27,
-        "rdStartX": 59, #Red Start Position
+        "rdStartX": 5, #Red Start Position  일단은 다른 환경 테스트 용으로 코너에 설치함
         "rdStartY": 10,
-        "rdStartZ": 280,
+        "rdStartZ": 290,
         "trackingMode": False,
         "detectMode": True,
         "logMode": True,
